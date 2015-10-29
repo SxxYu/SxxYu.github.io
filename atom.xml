@@ -3,9 +3,9 @@
   <title><![CDATA[赵毛毛博客]]></title>
   <subtitle><![CDATA[赵毛毛博客的个人网站]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://luodaoyi.com/"/>
+  <link href="http://woca.so/"/>
   <updated>2015-10-29T17:07:29.521Z</updated>
-  <id>http://luodaoyi.com/</id>
+  <id>http://woca.so/</id>
   
   <author>
     <name><![CDATA[赵毛毛博客]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[静态网站使用不蒜子显示浏览量]]></title>
-    <link href="http://luodaoyi.com/2015/10/30/busuanzi/"/>
-    <id>http://luodaoyi.com/2015/10/30/busuanzi/</id>
+    <link href="http://woca.so/2015/10/30/busuanzi/"/>
+    <id>http://woca.so/2015/10/30/busuanzi/</id>
     <published>2015-10-29T16:22:04.000Z</published>
     <updated>2015-10-29T17:07:29.521Z</updated>
     <content type="html"><![CDATA[<p>本文转载自<a href="http://ibruce.info/2015/04/04/busuanzi/" target="_blank" rel="external">不蒜子不如</a></p>
@@ -95,18 +95,18 @@
 <p>静态网站建站现在有很多快速的技术和平台，但静态是优点也有缺点，由于是]]>
     </summary>
     
-      <category term="Hexo" scheme="http://luodaoyi.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://woca.so/tags/Hexo/"/>
     
-      <category term="web" scheme="http://luodaoyi.com/tags/web/"/>
+      <category term="web" scheme="http://woca.so/tags/web/"/>
     
-      <category term="网页工具" scheme="http://luodaoyi.com/categories/%E7%BD%91%E9%A1%B5%E5%B7%A5%E5%85%B7/"/>
+      <category term="网页工具" scheme="http://woca.so/categories/%E7%BD%91%E9%A1%B5%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[我的博客]]></title>
-    <link href="http://luodaoyi.com/2015/10/29/install-hexo/"/>
-    <id>http://luodaoyi.com/2015/10/29/install-hexo/</id>
+    <link href="http://woca.so/2015/10/29/install-hexo/"/>
+    <id>http://woca.so/2015/10/29/install-hexo/</id>
     <published>2015-10-28T16:22:04.000Z</published>
     <updated>2015-10-29T17:07:29.521Z</updated>
     <content type="html"><![CDATA[<h1 id="My_Website">My Website</h1><p><a href="https://travis-ci.org/luodaoyi/site" target="_blank" rel="external"><img src="https://travis-ci.org/luodaoyi/site.svg?branch=master" alt="Build Status"></a></p>
@@ -122,9 +122,9 @@
     <![CDATA[<h1 id="My_Website">My Website</h1><p><a href="https://travis-ci.org/luodaoyi/site" target="_blank" rel="external"><img src="https://travis-]]>
     </summary>
     
-      <category term="Hexo" scheme="http://luodaoyi.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://woca.so/tags/Hexo/"/>
     
-      <category term="网页工具" scheme="http://luodaoyi.com/categories/%E7%BD%91%E9%A1%B5%E5%B7%A5%E5%85%B7/"/>
+      <category term="网页工具" scheme="http://woca.so/categories/%E7%BD%91%E9%A1%B5%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
