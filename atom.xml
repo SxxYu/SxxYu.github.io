@@ -4,7 +4,7 @@
   <subtitle><![CDATA[赵毛毛博客的个人网站]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://woca.so/"/>
-  <updated>2015-10-29T17:07:29.521Z</updated>
+  <updated>2015-10-29T22:34:27.647Z</updated>
   <id>http://woca.so/</id>
   
   <author>
@@ -13,6 +13,23 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[我的第一次]]></title>
+    <link href="http://woca.so/2015/10/30/first/"/>
+    <id>http://woca.so/2015/10/30/first/</id>
+    <published>2015-10-29T22:33:03.000Z</published>
+    <updated>2015-10-29T22:34:27.647Z</updated>
+    <content type="html"><![CDATA[<h1 id="日尼玛啊">日尼玛啊</h1><h2 id="行不行？">行不行？</h2><h1 id="操你大爷">操你大爷</h1><h2 id="操两次">操两次</h2>]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="日尼玛啊">日尼玛啊</h1><h2 id="行不行？">行不行？</h2><h1 id="操你大爷">操你大爷</h1><h2 id="操两次">操两次</h2>]]>
+    </summary>
+    
+      <category term="日记" scheme="http://woca.so/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="我的日记" scheme="http://woca.so/categories/%E6%88%91%E7%9A%84%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[静态网站使用不蒜子显示浏览量]]></title>
